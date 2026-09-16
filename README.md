@@ -1,4 +1,6 @@
 # [Linked In GenAI(Click to see the Website)](https://www.linkedingenai.com)
+# [Youtube Demo (Click to see)](https://www.youtube.com/watch?v=-ngDrYsJpZk)
+## Authors
 
 > [!NOTE]
 > **Proprietary Notice**: The complete source code, prompt engineering pipelines, and internal business logic for this project are maintained in a private repository to protect intellectual property. This repository provides the public system architecture, workflow specifications, and empirical benchmark evaluation results.
